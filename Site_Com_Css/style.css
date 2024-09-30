@@ -50,7 +50,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-powder-smoke-colorful-background-image_2164096.jpg') no-repeat center center/cover;
+    background: url('fundo.avif') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 150px 0;
